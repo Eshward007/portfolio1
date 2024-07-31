@@ -17,11 +17,11 @@ ol {
 }
 
 :root {
-  --primary-color: #f83e4b;
+  --primary-color: red;
   --background-color: #ffffff;
-  --nav-background-color: #f83e4b;
+  --nav-background-color: red;
   --nav-text-color: #ffffff;
-  --text-color: #1e1e1e;
+  --text-color: black;
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 
 .dark-mode {
   --background-color: #222;
-  --text-color: #fff;
+  --text-color: blue;
 }
 
 .fa-sun {
